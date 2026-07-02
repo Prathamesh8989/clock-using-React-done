@@ -1,3 +1,11 @@
+
+## 📸 Preview
+
+![Digital Clock](digital-clock.png)
+
+
+
+
 # Minimalist React Digital Clock
 
 A modern, responsive, and minimalist **Digital Clock** built using **React.js**. This project demonstrates how React Hooks (`useState` and `useEffect`) can be used to build a real-time application that updates automatically every second without manually manipulating the DOM.
